@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hello, I'm John D. Williams 👋
+- 🌱 I’m currently learning learning about tech. Just dabbling at this point.
+- ⚡ Fun fact: ...
 <!--
 **outbacklegacy/outbacklegacy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

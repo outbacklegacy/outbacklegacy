@@ -5,7 +5,7 @@
 [![Custom badge](https://shieldcn.dev/badge/Nextcloud-0082C9.svg?font=jetbrains-mono&logo=nextcloud&labelColor=auto&valueColor=auto)](https://nextcloud.com/)
 [![Custom badge](https://shieldcn.dev/badge/Firefox-FF7139.svg?font=jetbrains-mono&logo=firefoxbrowser)](https://www.firefox.com)
 [![Custom badge](https://shieldcn.dev/badge/Windows-0078d4.svg?font=jetbrains-mono&logo=ri%3AFaWindows)](https://www.microsoft.com/en-us/windows/)
-[![Custom badge](https://shieldcn.dev/badge/ArtCraft-1659c4.svg?font=fira-code)](https://getartcraft.com)
+[![Custom badge](https://shieldcn.dev/badge/ArtCraft-1659c4.svg?font=jetbrains-mono)](https://getartcraft.com)
 
 
 <!--

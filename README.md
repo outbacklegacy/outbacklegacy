@@ -1,10 +1,11 @@
-  <img alt="header" src="https://shieldcn.dev/header/glow.svg?title=Hi%2C+I%27m+John+D.+Williams&amp;subtitle=I%27m+currently+just+dabbling+in+tech&amp;mode=dark&amp;align=left&amp;image=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1517336714731-489689fd1ca8%3Fw%3D1600%26q%3D70%26fit%3Dcrop%26fm%3Djpg" />
+<p align="left">
+  <img alt="header" src="https://shieldcn.dev/header/glow.svg?title=Hi%2C+I%27m+John+D.+Williams&amp;subtitle=I%27m+currently+just+dabbling+in+tech&amp;size=wide&amp;mode=dark&amp;align=left&amp;font=roboto&amp;image=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1517336714731-489689fd1ca8%3Fw%3D1600%26q%3D70%26fit%3Dcrop%26fm%3Djpg" />
 </p>
 
 [![Custom badge](https://shieldcn.dev/badge/Nextcloud-0082C9.svg?font=jetbrains-mono&logo=nextcloud&labelColor=auto&valueColor=auto)](https://nextcloud.com/)
 [![Custom badge](https://shieldcn.dev/badge/Firefox-FF7139.svg?font=jetbrains-mono&logo=firefoxbrowser)](https://www.firefox.com)
 [![Custom badge](https://shieldcn.dev/badge/Windows-0078d4.svg?font=jetbrains-mono&logo=ri%3AFaWindows)](https://www.microsoft.com/en-us/windows/)
-[![Custom badge](https://shieldcn.dev/badge/ArtCraft-1659c4.svg)](https:/getartcraft.com)
+[![Custom badge](https://shieldcn.dev/badge/ArtCraft-1659c4.svg?font=fira-code)](https://getartcraft.com)
 
 
 <!--

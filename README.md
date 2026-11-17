@@ -6,7 +6,7 @@
 [![Custom badge](https://shieldcn.dev/badge/Firefox-FF7139.svg?font=jetbrains-mono&logo=firefoxbrowser)](https://www.firefox.com)
 [![Custom badge](https://shieldcn.dev/badge/Windows-0078d4.svg?font=jetbrains-mono&logo=ri%3AFaWindows)](https://www.microsoft.com/en-us/windows/)
 [![Custom badge](https://shieldcn.dev/badge/ArtCraft-1659c4.svg?font=jetbrains-mono)](https://getartcraft.com)
-
+[![Custom badge](https://shieldcn.dev/badge/Obsidian-483699.svg?font=jetbrains-mono&logo=obsidian)](https://obsidian.md)
 
 <!--
 **outbacklegacy/outbacklegacy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

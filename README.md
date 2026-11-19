@@ -1,7 +1,6 @@
 # Hi there, I'm John D. Williams
 >- 🔭 I'm _just_ a tech enthusiast, _not_ a programmer at this point.
->- 🌱 I'm currently learning markdown syntax [Markdown](https://daringfireball.net/projects/markdown)
-
+>- 🌱 I'm currently learning [markdown](https://daringfireball.net/projects/markdown) syntax 
 >
 
 [![Custom badge](https://shieldcn.dev/badge/Nextcloud-0082C9.svg?font=jetbrains-mono&logo=nextcloud&labelColor=auto&valueColor=auto)](https://nextcloud.com/)
